@@ -5,9 +5,9 @@
     <h1>PHP String Manipulation</h1>
     <?php 
     //Concatenation of strings
-        $phrase1 = "student who came late";
+        $phrase1 = "student";
         $phrase2 = "in class, stand with Rock";
-        $name = "trevoir williams";
+        $name = "Vaughn Bauer";
         echo $phrase1 . ", named Tiffany, ". $phrase2;
         echo '<br/>';
         echo '<hr/>';
